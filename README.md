@@ -16,7 +16,7 @@
 
 ## switch...case
 
-Regardez ici : (https://www.w3schools.com/js/js_switch.asp)[switch case]
+Regardez ici : [switch case](https://www.w3schools.com/js/js_switch.asp)
 
 - Déclarez 3 variables de type string égales à "Matin", "Après-midi", "Soir".
 - Avec une structure Switch...case, afficher la boisson appropriée "Café", "Thé", "Infusion". Le cas par défaut affichera "Eau".
